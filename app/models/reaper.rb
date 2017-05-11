@@ -1,0 +1,2 @@
+class Reaper < ApplicationRecord
+end
